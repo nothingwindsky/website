@@ -73,6 +73,10 @@ p {
   text-indent: 1.5em; 
 }
 
+.no-indent {
+  text-indent: 0;
+}
+
 blockquote {
   margin-left: 1.5em;
 }
