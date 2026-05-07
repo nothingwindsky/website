@@ -71,6 +71,11 @@ h1 {
 
 h2 { 
   font-size:1.4em;
+  display: block;
+}
+
+.by {
+  font-size:1.4em;
   display: inline;
 }
 
