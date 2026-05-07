@@ -1,6 +1,9 @@
 const bios = {
   hkoubliette: [
-    "null"
+    "did shots with Japan's number one battle rapper.",
+    "lives out of a capsule hotel.",
+    "maintains critical support for Bikkuri Donkey.",
+    "is a small teenager wearing an eyepatch."
   ],
 
   tomacgau: [
