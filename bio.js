@@ -9,7 +9,7 @@ const bios = {
     "ghostwrote Hillbilly Elegy.",
     "is a casualty of the food allergies to gnosticism pipeline",
     "has no mouth but he just can't stop smiling!",
-    "is slitting on your grave to lube it up.",
+    "is spitting on your grave to lube it up.",
     "is not living in the moment.",
     "operates a rapidly expanding kudzu farm."
   ]
