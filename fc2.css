@@ -50,6 +50,12 @@ a {color:#ade6b4;}
   margin:1em;
 }
 
+.dlbutton {
+  float:right;
+  height:20px;
+  border:1px solid blue;
+}
+
 td {
   padding:1em;
 }
