@@ -1,5 +1,6 @@
 const bios = {
   hkoubliette: [
+    "null"
   ],
 
   tomacgau: [
@@ -22,7 +23,7 @@ function getRandomBio(author) {
   return options[Math.floor(Math.random() * options.length)];
 }
 
-document.querySelectorAll(".bio").forEach(element => {
+document.querySelectorAll("[data-author]").forEach(element => {
   const author = element.dataset.author;
   element.textContent = getRandomBio(author);
 });
