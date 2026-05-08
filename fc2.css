@@ -34,16 +34,10 @@ a {color:#ade6b4;}
   flex-direction: row;
   flex-wrap: nowrap;
   justify-content: flex-start;
-  align-items: stretch;
+  align-items: baseline;
   align-content: flex-end;
   gap: 8px;
 } 
-
-  .funnyanimal > div {
-    align-content: flex-end;
-  }
-
-  
 
 .panel {
   background:#353232;
