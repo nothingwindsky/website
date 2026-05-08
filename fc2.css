@@ -35,9 +35,13 @@ a {color:#ade6b4;}
   flex-wrap: nowrap;
   justify-content: flex-start;
   align-items: stretch;
-  align-content: stretch;
+  align-content: flex-end;
   gap: 8px;
-}
+} 
+
+  .funnyanimal > div {
+    align-content: flex-end;
+  }
 
   
 
