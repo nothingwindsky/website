@@ -29,6 +29,7 @@ a {color:#ade6b4;}
 }
 
 .funnyanimal {
+   max-width: 80ch;
    display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
