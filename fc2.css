@@ -30,6 +30,7 @@ a {color:#ade6b4;}
 
 .funnyanimal {
   display:flex;
+  flex-wrap:no-wrap;
   max-width: 80ch;
   padding: 0.3em;
   flex-direction: row;
