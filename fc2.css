@@ -29,13 +29,13 @@ a {color:#ade6b4;}
 }
 
 .funnyanimal {
-  display:flex;
-  flex-wrap:no-wrap;
-  max-width: 80ch;
-  padding: 0.3em;
+   display: flex;
   flex-direction: row;
-  justify-content:center;
-  align-items: flex-end;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: stretch;
+  align-content: stretch;
+  gap: 8px;
 }
 
   .funnyanimal > div {
