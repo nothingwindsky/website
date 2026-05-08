@@ -10,7 +10,7 @@ const bios = {
     "has been diagnosed with autism by three different doctors. He still doesn't buy it.",
     "is cultivating disinterest.",
     "ghostwrote Hillbilly Elegy.",
-    "is a casualty of the food allergies to gnosticism pipeline",
+    "is a casualty of the food allergies to gnosticism pipeline.",
     "has no mouth but he just can't stop smiling!",
     "is spitting on your grave to lube it up.",
     "is not living in the moment.",
