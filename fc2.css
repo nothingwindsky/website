@@ -38,10 +38,7 @@ a {color:#ade6b4;}
   gap: 8px;
 }
 
-  .funnyanimal > div {
-    display: flex;
-    flex: 0 1 auto;
-  }
+  
 
 .panel {
   background:#353232;
