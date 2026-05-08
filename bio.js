@@ -29,6 +29,17 @@ const bios = {
     "is just a normal girl—promise!",
     "wants to be your friend.",
     "is enjoying fruitcakes and tea."
+    ],
+
+  yurifufurin: [
+    "is growing increasingly alienated from his peers.",
+    "is trapped inside sleep train arena for the time being.",
+    "is really worried about you.",
+    "survived a mystery health scare.",
+    "emits an unpleasant aura.",
+    "has been defeated.",
+    "goes to the corner store once a day to buy delicious \“chocorooms.\”",
+    "still gets calls from his childhood home, which was completely submerged after the hydroelectric dam was built.",
     ]
 };
 
