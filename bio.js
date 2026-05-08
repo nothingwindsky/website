@@ -8,7 +8,7 @@ const bios = {
 
   yvettewheeler: [
     "hails from the land of magnets and pudding.",
-    "is 5000 years young.",
+    "is 5000 years <i>young</i>.",
     "is getting in the bathtub to flop around like a fish.",
     "is still trying to figure out her favorite numbers."
   ],
@@ -60,5 +60,5 @@ function getRandomBio(author) {
 
 document.querySelectorAll("[data-author]").forEach(element => {
   const author = element.dataset.author;
-  element.textContent = getRandomBio(author);
+  element.innerHTML = getRandomBio(author);
 });
