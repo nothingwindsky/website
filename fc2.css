@@ -28,6 +28,19 @@ a {color:#ade6b4;}
   padding:1em;
 }
 
+.funnyanimal {
+  display:flex;
+  max-width: 80ch;
+  padding: 0.3em;
+  flex-direction: row;
+  justify-content: center;
+}
+
+  .funnyanimal > div {
+    display: flex;
+    flex: 0 1 auto;
+  }
+
 .panel {
   background:#353232;
   padding: 0.5em;
