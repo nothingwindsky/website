@@ -6,6 +6,13 @@ const bios = {
     "is a small teenager wearing an eyepatch."
   ],
 
+  yvettewheeler: [
+    "hails from the land of magnets and pudding.",
+    "is 5000 years young.",
+    "is getting in the bathtub to flop around like a fish.",
+    "is still trying to figure out her favorite numbers."
+  ],
+  
   tomacgau: [
     "has been diagnosed with autism by three different doctors. He still doesn't buy it.",
     "is cultivating disinterest.",
