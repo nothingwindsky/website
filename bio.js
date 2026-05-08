@@ -15,7 +15,21 @@ const bios = {
     "is spitting on your grave to lube it up.",
     "is not living in the moment.",
     "operates a rapidly expanding kudzu farm."
-  ]
+  ],
+
+  anomalouslovedoll: [
+    "is currently stuffed inside of a box.",
+    "will grant any of your wishes.",
+    "will follow you into the afterlife.",
+    "is always by your side!",
+    "loves to play. Won't you?",
+    "thinks she's better than you, but it's not personal.",
+    "is feeling a bit lonely.",
+    "hasn't been played with in 𝑥 days.",
+    "is just a normal girl—promise!",
+    "wants to be your friend.",
+    "is enjoying fruitcakes and tea."
+    ]
 };
 
 function getRandomBio(author) {
